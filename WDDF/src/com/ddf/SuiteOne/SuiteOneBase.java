@@ -1,5 +1,7 @@
 package com.ddf.SuiteOne;
 
-public class SuiteOneBase {
+import com.ddf.TestSuiteBase.SuiteBase;
+
+public class SuiteOneBase extends SuiteBase{
 
 }
